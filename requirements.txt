@@ -3,4 +3,4 @@ ipywidgets==7.5
 pygments==2.4.1
 numpy
 pathlib
-cv2
+opencv-python==4.5.3.56
