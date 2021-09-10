@@ -5,3 +5,4 @@ numpy
 #pathlib==1.0.1
 #opencv-python==4.5.3.56
 opencv-python-headless
+jupiter-server==0.1.8
