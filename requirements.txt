@@ -10,3 +10,24 @@ pathlib
 opencv-python~=4.2.0
 #opencv-contrib-python==4.2.0.34
 
+libjpeg62-dev
+
+libtiff4-dev
+
+zlib1g-dev
+
+libjasper-dev
+
+libavcodec-dev
+
+libdc1394-22-dev
+
+libgstreamer0.10-dev
+
+libgstreamer-plugins-base0.10-dev
+
+libavformat-dev
+
+libv4l-dev
+
+libswscale-dev
