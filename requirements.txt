@@ -1,7 +1,7 @@
-voila==0.2.10
+voila==0.1.6
 ipywidgets==7.5
 pygments==2.4.1
 numpy
-pathlib==1.0.1
+#pathlib==1.0.1
 opencv-python==4.5.3.56
 
