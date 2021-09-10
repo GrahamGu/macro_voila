@@ -16,139 +16,25 @@ opencv-python==4.5.3.56
 
 
 
-anaconda-client
-anaconda-navigator
 
-appdirs
-argh
-
-atomicwrites
-
-backports.weakref
-
-bkcharts
-black
-
-boto
-Bottleneck
-brotlipy
-certifi
-
-clyent
-
-comtypes
-conda
-conda-build
-
-conda-verify
-
-cycler
-
-cytoolz
 
 download-gitignore
-entrypoints
-et-xmlfile
-fastcache
 
-fonttools
-
-future
-
-gmpy2
-
-h5py
 
 jupyter
 
-llvmlite
-locket
-
-mccabe
-menuinst
-mistune
-mkl-fft
-
-mkl-service
-
 mpmath
 
-multipledispatch
-munkres
-mypy-extensions
-navigator-updater
+
 
 opencv-python
 
-parso
-
-pathlib
 
 pathspec
 
-patsy
-pdf2image
-pdfminer.six
-pep8
-
-pkginfo
-
-ply
-
-
-
-pycosat
-
-pycurl
-
-pyodbc
-
-PyQt5
-PyQt5-Qt5
-PyQt5-sip
-PyQtWebEngine
-PyQtWebEngine-Qt5
-pyreadline
-
-pytesseract
-pytest
-
-pywin32
-pywin32-ctypes
-pywinpty
-PyYAML
-
-QDarkStyle
-
-scikit-image
-
-session-info
-simplegeneric
-
-sip
-
-statsmodels
-stdlib-list
-
-tables
-
-terminado
-
-unicodecsv
-
-voila
 
 webencodings
 
 widgetsnbextension
 
-win-unicode-console
-wincertstore
-wrapt
 
-xlwings
-xlwt
-
-zict
-
-zope.event
