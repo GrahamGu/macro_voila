@@ -7,12 +7,5 @@ numpy
 pathlib
 #pathlib==1.0.1
 #opencv-python==4.5.3.56
-opencv-python-headless
-numpy
-scipy
-pillow
-pandas
-peakutils
-matplotlib
-plotly
-psutil
+opencv-python==0.4.5.6
+
