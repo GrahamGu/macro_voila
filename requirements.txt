@@ -6,7 +6,7 @@ ipywidgets
 numpy
 pathlib
 #pathlib==1.0.1
-opencv-python==4.2.0
+opencv-python~=4.2.0
 #opencv-python~=4.2.0
 #opencv-contrib-python==4.2.0.34
 
